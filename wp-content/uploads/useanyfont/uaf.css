@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'avante-guard';
+					src: url('/v2/laurie-travel/wp-content/uploads/useanyfont/7048Avante-Guard.woff2') format('woff2'),
+						url('/v2/laurie-travel/wp-content/uploads/useanyfont/7048Avante-Guard.woff') format('woff');
+					font-weight: 400; font-style: normal; font-display: auto;
+				}
+
+				.avante-guard{font-family: 'avante-guard' !important;}
+
+						h1, h2, .site-title{
+					font-family: 'avante-guard' !important;
+				}
+		

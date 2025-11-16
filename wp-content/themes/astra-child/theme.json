@@ -1,0 +1,22 @@
+{
+	"settings": {
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "avante-guard",
+					"slug": "avante-guard",
+					"fontFace": [
+						{
+							"fontFamily": "avante-guard",
+							"fontStretch": "",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "http://165.232.191.80/v2/laurie-travel/wp-content/uploads/useanyfont/7048Avante-Guard.woff2"
+						}
+					],
+					"isUAF": true
+				}
+			]
+		}
+	}
+}
